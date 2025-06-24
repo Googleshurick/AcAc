@@ -1,1 +1,2 @@
 com.netwing.netwing
+com.qmqm.sq
