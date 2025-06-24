@@ -1,2 +1,3 @@
 com.netwing.netwing
 com.qmqm.sq
+com.aide.clone
